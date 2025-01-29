@@ -12,6 +12,6 @@
 ## **📄 Descrição do Projeto** 
 Chatbot 
 ## **💡 Temas da Conversa** 
-- 1- Agenda inteligente
-- 2- Gestão de Tempo
-- 3- Gerenciamento de prioridades
+- 1- Agenda inteligente 📅
+- 2- Gestão de Tempo ⏳
+- 3- Gerenciamento de prioridades 📌
