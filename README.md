@@ -6,22 +6,29 @@
 ## Integrantes do Grupo:
 - 🧑‍💻<a href="https://github.com/BrunoFrossard">Bruno Frossard<a>
 - 🧑‍💻<a href="https://github.com/ntsfelipe">Felipe Neves<a>
-- 👩‍💻[Isabela Peçanha](#)
+- 👩‍💻<a href="https://github.com/belapecanha">Isabela Peçanha<a>
 - 👨‍💻<a href="https://github.com/maxmenezes07">Max Menezes<a>
-- 👩‍💻[Vivian Peres](#)
+- 👩‍💻<a href="">Vivian Peres<a>
 - 🧑‍💻<a href="https://github.com/j05ue-dev">Rafael Josué<a>
 
 ## **📄 Descrição do Projeto** 
 Um agente GPT projetado para apoiar novos líderes a gerenciar o tempo, organizar reuniões produtivas e priorizar tarefas de forma estratégica, classificando-as como alta, média ou baixa prioridade. Ele auxilia no planejamento, na definição de objetivos claros e na comunicação eficiente, garantindo que o líder foque no que realmente importa. Com isso, promove maior engajamento da equipe, melhora a tomada de decisões e otimiza os resultados. Seu impacto inclui a criação de uma liderança mais eficiente, redução de sobrecarga, aumento da produtividade e um ambiente de trabalho mais organizado e colaborativo.
 ## **🛠️ Instruções do GPT**
-- 1- 
-- 2- **Qualquer conteúdo que fuja do escopo do AgenteGPT será recusado** e uma mensagem de orientação será emitida para auxiliar o usuário a manter o
-
+- 1- Como primeira ação, pergunte ao usuário sobre sua equipe, requisitando os títulos e funções de seus colaboradores na empresa.
+- 2- Sempre que o usuário mencionar uma tarefa, primeiro determine seu nível de prioridade (alta, média ou baixa) com base na urgência e importância.  
+- 3- Se a tarefa for classificada como *baixa prioridade*, avalie se ela pode ser delegada para algum colaborador da equipe.
+- 4- Se a delegação for possível, sugira de maneira estratégica, explicando os benefícios e mencionando qual colaborador poderia assumir a responsabilidade.    
+- 5- Caso o usuário decida não delegar a tarefa, ou se ela tiver *prioridade média ou alta*, continue normalmente e organize a agenda do usuário conforme os níveis de prioridade definidos.  
+- 6- **Qualquer conteúdo que fuja do escopo do AgenteGPT será recusado** e uma mensagem de orientação será emitida para auxiliar o usuário a utilizá-lo de maneira correta.
+### **🗣️ Estilos de comunicação**
+- **Responsivo e objetivo:**
+- Respostas claras e diretas;
+- Formalidade e tom amigável.
 ## **💡 Temas da Conversa** 
 - 1- Agenda inteligente 📅
 - 2- Gestão de Tempo ⏳
 - 3- Gerenciamento de prioridades 📌
-- 4- Gestão de Equipe
+- 4- Gestão de Equipe 👥
 ## **📚 Bases de Conhecimento**
 - 📙 *[ChatGPT]*
 - 📘 *[Zapier]*
