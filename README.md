@@ -1,7 +1,7 @@
 
 # 🤖 Priorium AI 
 
-### 🔗 Link do AgenteGPT:
+### 🔗 Link do AgenteGPT: https://chatgpt.com/g/g-679b769e0b308191aa2b07a7a7d8a68e-priorium-ai
 
 ## Integrantes do Grupo:
 - 🧑‍💻<a href="https://github.com/BrunoFrossard">Bruno Frossard<a>
