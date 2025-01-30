@@ -1,14 +1,15 @@
-# 🤖 Priorium AI
+
+# 🤖 Priorium AI 
 
 ### 🔗 Link do AgenteGPT:
 
 ## Integrantes do Grupo:
-- [Bruno Frossard](#)
-- [Felipe Neves](#)
-- [Isabela Peçanha](#)
-- [Max Menezes](#)
-- [Vivian Peres](#)
-- [Rafael Josué](#)
+- 🧑‍💻<a href="https://github.com/BrunoFrossard">Bruno Frossard<a>
+- 🧑‍💻[Felipe Neves](#)
+- 👩‍💻[Isabela Peçanha](#)
+- 👨‍💻[Max Menezes](#)
+- 👩‍💻[Vivian Peres](#)
+- 🧑‍💻[Rafael Josué](#)
 
 ## **📄 Descrição do Projeto** 
  Um agente GPT projetado para apoiar novos líderes a gerenciar o tempo, organizar reuniões produtivas e priorizar tarefas de forma estratégica, classificando-as como alta, média ou baixa prioridade. Ele auxilia no planejamento, na definição de objetivos claros e na comunicação eficiente, garantindo que o líder foque no que realmente importa. Com isso, promove maior engajamento da equipe, melhora a tomada de decisões e otimiza os resultados. Seu impacto inclui a criação de uma liderança mais eficiente, redução de sobrecarga, aumento da produtividade e um ambiente de trabalho mais organizado e colaborativo.
@@ -22,10 +23,10 @@
 - 3- Gerenciamento de prioridades 📌
 - 4- Gestão de Equipe
 ## **📚 Bases de Conhecimento**
-- 📙
-- 📘
-- 📗
-- 📕
+- 📙 *[ChatGPT]*
+- 📘 *[Zapier]*
+- 📗 *[Add Actions to your GPT in ChatGPT! (Full Guide)]*
+- 📕 **
 ## **Documentações Complementares**
 - 🔗<a href="https://www.scielo.br/j/rcf/a/XhgpjrhLb6nzsSJ5M9gkLSB/?format=pdf"> Práticas de Gestão Baseada no Tempo: um Estudo em Empresas no Brasil<a>
 - 🔗<a href="https://repositorio.enap.gov.br/bitstream/1/2521/1/GPFT%20-%20ApostilaCE.pdf">Gestão de pessoas: fundamentos e tendências: apostila<a>
