@@ -22,10 +22,10 @@
 - 3- Gerenciamento de prioridades 📌
 - 4- Gestão de Equipe
 ## **📚 Bases de Conhecimento**
-📙
-📘
-📗
-📕
+- 📙
+- 📘
+- 📗
+- 📕
 ## **Documentações Complementares**
 - 🔗<a href="https://www.scielo.br/j/rcf/a/XhgpjrhLb6nzsSJ5M9gkLSB/?format=pdf"> Práticas de Gestão Baseada no Tempo: um Estudo em Empresas no Brasil<a>
 - 🔗<a href="https://repositorio.enap.gov.br/bitstream/1/2521/1/GPFT%20-%20ApostilaCE.pdf">Gestão de pessoas: fundamentos e tendências: apostila<a>
