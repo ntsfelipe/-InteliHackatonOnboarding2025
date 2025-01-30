@@ -8,7 +8,7 @@
 - 🧑‍💻<a href="https://github.com/ntsfelipe">Felipe Neves<a>
 - 👩‍💻<a href="https://github.com/belapecanha">Isabela Peçanha<a>
 - 👨‍💻<a href="https://github.com/maxmenezes07">Max Menezes<a>
-- 👩‍💻<a href="">Vivian Peres<a>
+- 👩‍💻<a href="https://github.com/peresvivian">Vivian Peres<a>
 - 🧑‍💻<a href="https://github.com/j05ue-dev">Rafael Josué<a>
 
 ## **📄 Descrição do Projeto** 
